@@ -1,5 +1,5 @@
 # StatusDeck
-This mod just shows FPS, Ping, CPU, GPU, and also what role you are, what you are doing (Action), and the current map. If your role is Tracker, then whoever you track will have their actions be displayed on the deck. ALSO it replaces the "An Imposter" in the eject screen with "an Imposter" and etc
+This mod just shows FPS, Ping, CPU, GPU, and also what role you are, what you are doing (Action), and the current map. If your role is Tracker, then whoever you track will have their actions be displayed on the deck. ALSO it replaces the "An Imposter" in the eject screen with "an Imposter" and etc; AND FINALLY, it shows imposters when you are the imposter (ghost or phantom or whatever resembles imposter)
 
 also this mod is for Among Us
 
